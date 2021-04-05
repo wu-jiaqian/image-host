@@ -1,2 +1,2 @@
-# image-host
+# image host
 Personal image hosting repository
